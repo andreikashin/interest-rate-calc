@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestRateCalc.Api", "InterestRateCalc.Api.csproj", "{2A94B7D4-E344-4ABC-A6C6-BFDA0B508F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestRateCalc.Tests", "..\InterestRateCalc.Tests\InterestRateCalc.Tests.csproj", "{34C1B984-0077-4F4B-AC1E-BDB8FC9D4BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A94B7D4-E344-4ABC-A6C6-BFDA0B508F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94B7D4-E344-4ABC-A6C6-BFDA0B508F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A94B7D4-E344-4ABC-A6C6-BFDA0B508F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A94B7D4-E344-4ABC-A6C6-BFDA0B508F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C1B984-0077-4F4B-AC1E-BDB8FC9D4BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C1B984-0077-4F4B-AC1E-BDB8FC9D4BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C1B984-0077-4F4B-AC1E-BDB8FC9D4BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C1B984-0077-4F4B-AC1E-BDB8FC9D4BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EEC627-B103-4658-B4B8-FBE8A6EB9BBC}
+	EndGlobalSection
+EndGlobal
